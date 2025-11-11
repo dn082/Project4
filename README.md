@@ -32,3 +32,5 @@ For this project, I will be using a dataset from Kaggle, the link is https://www
 
 
 ## REFERENCES
+- https://www.kaggle.com/datasets/pes12017000148/food-ingredients-and-recipe-dataset-with-images
+- https://scikit-learn.org/stable/modules/generated/sklearn.feature_extraction.text.TfidfVectorizer.html 
